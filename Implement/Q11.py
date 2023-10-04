@@ -1,4 +1,5 @@
 #Q11 뱀
+#https://www.acmicpc.net/problem/3190
 import sys
 input = sys.stdin.readline #입력 시간 줄이기 
 
